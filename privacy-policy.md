@@ -1,13 +1,13 @@
 # Política de privacidad de OverlayVideoPlayer
 
-**Última actualización:** 
+**Última actualización:** 17/09/2026
 
 Esta política de privacidad describe cómo OverlayVideoPlayer ("la aplicación") maneja la información al usarse en tu dispositivo.
 
 ## 1. Quién publica esta aplicación
 
-- **Desarrollador/publicador:** [TU NOMBRE O RAZÓN SOCIAL]
-- **Contacto:** [TU CORREO DE CONTACTO]
+- **Desarrollador/publicador:** Osvaldo cr
+- **Contacto:** swirocr11@gmail.com
 
 ## 2. Qué información recopila la aplicación
 
@@ -50,4 +50,4 @@ Esta política puede actualizarse si la aplicación incorpora nuevas funciones q
 
 ## 7. Contacto
 
-Si tienes preguntas sobre esta política, puedes escribir a: [TU CORREO DE CONTACTO]
+Si tienes preguntas sobre esta política, puedes escribir a: swirocr11@gmail.com
