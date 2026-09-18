@@ -1,6 +1,6 @@
 # Política de privacidad de OverlayVideoPlayer
 
-**Última actualización:** [FECHA]
+**Última actualización:** 
 
 Esta política de privacidad describe cómo OverlayVideoPlayer ("la aplicación") maneja la información al usarse en tu dispositivo.
 
