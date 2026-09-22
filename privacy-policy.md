@@ -6,7 +6,7 @@ Esta política de privacidad describe cómo OverlayVideoPlayer ("la aplicación"
 
 ## 1. Quién publica esta aplicación
 
-- **Desarrollador/publicador:** Osvaldo cr
+- **Desarrollador/publicador:** swirocr11
 - **Contacto:** swirocr11@gmail.com
 
 ## 2. Qué información recopila la aplicación
